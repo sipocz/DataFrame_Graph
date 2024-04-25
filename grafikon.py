@@ -17,7 +17,7 @@ def grafikon2(df,col_1,desc_1,col_2="",desc_2="",n_graf=1,c_1=None, c_2=None,x=N
     else:
         _line2_color_=c_2
 
-    _line_color_list_=["#FF9130","#716F81","#615F91"]
+    _line_color_list_=["#5C4B51","#8CBEB2","#F2EBBF","#F3B562","#F06060","#FF9130","#716F81","#615F91"]
 
 
     # end of Colors
